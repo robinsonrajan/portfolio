@@ -1,6 +1,17 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: <p align="center"> Robinson Rajan </p>
+#logo: /assets/img/logo.png
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/robinson-rajan-504b89106/">LinkedIn</a> |
+  <a href="https://github.com/robinsonrajan">GitHub</a>
+  
+  <br>   
+  I'm a aspiring Data Scientist and passionately working on various projects.  
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
